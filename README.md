@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Nikita Nikonovich
+HTML CSS Basics: https://www.codecademy.com/users/DearFriend/achievements
